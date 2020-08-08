@@ -123,3 +123,13 @@
 2020-08-08 12:47:57 INFO  ActivityStreamPage:37 - File path: /Users/vfomiuk/IdeaProjects/Bitrix24Automation/src/test/resources/testData/testImage.png
 2020-08-08 12:48:03 INFO  ActivityStreamPage:46 - Clicking on the Send button
 2020-08-08 12:48:03 INFO  Hooks:32 - ::: Ending automation :::
+2020-08-08 18:38:23 INFO  Hooks:18 - ::: Starting automation :::
+2020-08-08 18:38:23 INFO  Hooks:19 - Browser type: chrome
+2020-08-08 18:38:23 INFO  Hooks:20 - URL: http://login2.nextbasecrm.com
+2020-08-08 18:38:23 INFO  Driver:37 - Browser :: chrome
+2020-08-08 18:38:24 INFO  WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-08 18:38:24 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /Users/irina/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-08-08 18:38:28 INFO  LoginPage:46 - Logins as hr
+2020-08-08 18:38:29 INFO  BasePage:37 - Navigating to: Activity Stream
+2020-08-08 18:38:29 INFO  ActivityStreamPage:37 - File path: /Users/irina/IdeaProjects/Bitrix24Automation/src/test/resources/testData/testImage.png
+2020-08-08 18:38:44 INFO  Hooks:27 - Taking a screenshot
